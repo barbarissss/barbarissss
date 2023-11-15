@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my profile
 #### Hi, I'm Barbaris, novice programmer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+idk, just barbaris
 
 Skills: C# / Еat cookies
 
