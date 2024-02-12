@@ -2,7 +2,7 @@
 #### Hi, I'm Barbaris, novice programmer
 idk, just barbaris
 
-Skills: C# / Еat cookies
+Skills: Python (Basics) / Еat cookies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarissss)](https://github.com/anuraghazra/github-readme-stats)
 
